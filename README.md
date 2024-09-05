@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Ayesha Ashruf
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood.
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Mijn focus ligt als eerst op responsive en wanneer ik de website responsive heb gemaakt zal ik verder verdiepen op de surface.
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  <a href="https://www.nike.com"</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
