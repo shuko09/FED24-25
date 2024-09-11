@@ -36,7 +36,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  <a>https://www.nike.com</a>
+  <a>https://www.nike.com/nl/</a>
+  <a>https://www.nike.com/nl/t/air-max-dn-se-schoenen-4PdLm8/HM0810-401</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home 
