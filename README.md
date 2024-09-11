@@ -40,15 +40,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <a>https://www.nike.com/nl/t/air-max-dn-se-schoenen-4PdLm8/HM0810-401</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home 
+  Home <br>
   <img src="images/home.png" width="375px" alt="Homepagina van Nike.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Detail pagina van de Nike Air Max Dn SE
   <img src="images/detail.png" width="375px" alt="Detailpagina van Nike.com">
  
 </details>
-
+Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal werken.
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
@@ -59,6 +59,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Tijdens de werkgroep van donderdag 5 september heb ik de nike website getest     met de voice over functie van macOS hieruit zijn de volgende bevindingen         uitgekomen:  
+
+In eerste instantie merkte ik dat de voiceover letterlijk alles opnoemt. 
+Aan een kant begrijp ik waarom maar aan de andere kant niet, stel je bent enkel opzoek naar een specifiek product en je hoort opeens allemaal dingen over AppleTV…
+
+Ook elke knop leest hij op. Aangezien je de trackpad niet kan gebruiken tijdens voiceover is het heel moeilijk navigeren op de website. 
   
 
 </details>
