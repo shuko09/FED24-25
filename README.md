@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="images/home.png" width="375px" alt="Homepagina van Nike.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Detail pagina van de Nike Air Max Dn SE
+  Detail pagina van de Nike Air Max Dn SE <br>
   <img src="images/detail.png" width="375px" alt="Detailpagina van Nike.com">
  
 </details>
