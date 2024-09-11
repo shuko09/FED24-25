@@ -61,11 +61,15 @@ Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal we
 
   Tijdens de werkgroep van donderdag 5 september heb ik de nike website getest     met de voice over functie van macOS hieruit zijn de volgende bevindingen         uitgekomen:  
 
-In eerste instantie merkte ik dat de voiceover letterlijk alles opnoemt. 
-Aan een kant begrijp ik waarom maar aan de andere kant niet, stel je bent enkel opzoek naar een specifiek product en je hoort opeens allemaal dingen over AppleTV…
+  Voice over slaat veel dingen over. De voice over benoemt de header, zoekbalk     etc. Verder verteld de voice over dat er een filmpje wordt afgespeeld (dat tevens ook de hero is van de pagina) en dat het filmpje zich in een groep bevindt en dat je een bepaalde shortcut moet invoeren wil je het filmpje kunnen bedienen; pauzeren, dempen, verder skippen etc. Wanneer je je buiten de groep bevindt skipt de voice over meteen door naar de eerst volgende product card rij, oftewel de articles. De hero die volgt na de main hero wordt volledig over geslagen. Na het benoemen van de eerste product card rij of articles, skipt de voice over meteen door naar de footer. 
 
-Ook elke knop leest hij op. Aangezien je de trackpad niet kan gebruiken tijdens voiceover is het heel moeilijk navigeren op de website. 
+  Na deze bevindingen heb ik de WCAG checklist getest, echter zijn de resultaten niet vergelijkbaar met de slechte accesibility van de voice over test. Mijn resultaten zijn meer ja dan nee en ook die van mijn 2e test persoon.
+
+  Daardoor heb ik besloten om verder onderzoek te doen over hoe accesible de nike website werkelijk is.
+
   
+
+  Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verrichten heeft.   
 
 </details>
 
