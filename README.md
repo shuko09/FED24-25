@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home <br>
-  <img src="images/home.png" width="375px" alt="Homepagina van Nike.com">
+  <img src="readme-images/home.png" width="375px" alt="Homepagina van Nike.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detail pagina van de Nike Air Max Dn SE <br>
-  <img src="images/detail.png" width="375px" alt="Detailpagina van Nike.com">
+  <img src="readme-images/detail.png" width="375px" alt="Detailpagina van Nike.com">
  
 </details>
 Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal werken.
@@ -81,10 +81,10 @@ Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown-1.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-2.png" width="375px" alt="breakdown van een dynamisch deel">
 
 
 </details>
