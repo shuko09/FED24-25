@@ -65,7 +65,10 @@ Voice over slaat veel dingen over. De voice over benoemt de header, zoekbalk    
 
 Na deze bevindingen heb ik de WCAG checklist getest, echter zijn de resultaten niet vergelijkbaar met de slechte accesibility van de voice over test. Mijn resultaten zijn meer ja dan nee en ook die van mijn 2e test persoon.
 
-Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike website werkelijk is.
+Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike website werkelijk is. 
+
+Het had werkelijk 1 google search nodig en de artikelen over Nike.com kwamen al naar boven.
+Nike heeft dus blijkbaar een zeer slechte interface als het gaat over accessibility. Lees hieronder waarom: <a href="https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
   
   
 
