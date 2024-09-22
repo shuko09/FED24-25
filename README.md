@@ -116,7 +116,7 @@ Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike
   - We hebben gevraagd of je echt gebruik moet maken van javascript en het antwoord was ja.
 
 Mijn voortgang voor de website zag er toen zo uit:
-<img src="readme-images/breakdown-1.png" width="375px" alt="home pagina Nike.com">
+<img src="readme-images/voortgang-1.png" width="375px" alt="home pagina Nike.com">
 
     
 
