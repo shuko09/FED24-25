@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home <br>
-  <img src="readme-images/home.png" width="375px" alt="Homepagina van Nike.com">
+  <img src="readme-images/home.JPG" width="375px" alt="Homepagina van Nike.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Detail pagina van de Nike Air Max Dn SE <br>
-  <img src="readme-images/detail.png" width="375px" alt="Detailpagina van Nike.com">
+  <img src="readme-images/detail.JPG" width="375px" alt="Detailpagina van Nike.com">
  
 </details>
 Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal werken.
