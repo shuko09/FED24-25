@@ -135,7 +135,15 @@ Mijn voortgang voor de website zag er toen zo uit:
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  
+Thuis heb ik wel in een tempo doorgewerkt. Ik heb een eigen font ingeladen die ik persoonlijk al in bezit heb genaamd Futura. Nike gebruikt voor de headings Futura maar dan een speciale variant alleen voor hen. Daarnaasr gebruiken zij HelveticaNow voor de rest. Nu is het zo dat ik Helvetica en Helvetica Neue in mijn bezit heb. Ik heb daarom ook (net als hoe ik Futura heb ingeladen) ook geprobeerd om Helvetica in te laden. 
+
+Helaas is niet niet gelukt. Ik weet toevallig dat je bepaalde fonts die je lokaal vanaf een eigen server of pc/laptop etc wilt inladen het soms niet lukt omdat het niet een "web safe font" is. Dit was dus zo een geval. 
+
+Net als hoe ik mijn Futura bestand heb omgezet in een @font-face kit heb ik dat ook gedaan voor Helvetica. Dit lukte echter niet omdat het Helvetica bestand een .ttc bestand is. Futura heb ik wel kunnen omzetten in .otf, .woff en .woff2.
+
+Dit heb ik gedaan met een tool genaamd web font generator van Font Squirrel.
+<a>https://www.fontsquirrel.com/tools/webfont-generator</a>
 
 
   ### Agenda voor meeting
@@ -147,15 +155,6 @@ Mijn voortgang voor de website zag er toen zo uit:
   ### Verslag van meeting
 
   Helaas kon ik niet aanwezig zijn voor de 2e voortgang wegens gezondheids redenen. 
-
-Maar, thuis heb ik wel in een tempo doorgewerkt. Ik heb een eigen font ingeladen die ik persoonlijk al in bezit heb genaamd Futura. Nike gebruikt voor de headings Futura maar dan een speciale variant alleen voor hen. Daarnaasr gebruiken zij HelveticaNow voor de rest. Nu is het zo dat ik Helvetica en Helvetica Neue in mijn bezit heb. Ik heb daarom ook (net als hoe ik Futura heb ingeladen) ook geprobeerd om Helvetica in te laden. 
-
-Helaas is niet niet gelukt. Ik weet toevallig dat je bepaalde fonts die je lokaal vanaf een eigen server of pc/laptop etc wilt inladen het soms niet lukt omdat het niet een "web safe font" is. Dit was dus zo een geval. 
-
-Net als hoe ik mijn Futura bestand heb omgezet in een @font-face kit heb ik dat ook gedaan voor Helvetica. Dit lukte echter niet omdat het Helvetica bestand een .ttc bestand is. Futura heb ik wel kunnen omzetten in .otf, .woff en .woff2.
-
-Dit heb ik gedaan met een tool genaamd web font generator van Font Squirrel.
-<a>https://www.fontsquirrel.com/tools/webfont-generator</a>
 
 </details>
 
