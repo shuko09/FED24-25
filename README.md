@@ -69,10 +69,8 @@ Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike
 
 Het had werkelijk 1 google search nodig en de artikelen over Nike.com kwamen al naar boven.
 Nike heeft dus blijkbaar een zeer slechte interface als het gaat over accessibility. Lees hieronder waarom: <a> https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
-  
-  
 
-  Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verrichten heeft.   
+Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verrichten heeft.   
 
 </details>
 
@@ -144,6 +142,10 @@ Net als hoe ik mijn Futura bestand heb omgezet in een @font-face kit heb ik dat 
 
 Dit heb ik gedaan met een tool genaamd web font generator van Font Squirrel.
 <a>https://www.fontsquirrel.com/tools/webfont-generator</a>
+
+De voortgang ziet voor deze week zo uit: 
+<img src="readme-images/voortgang-2.png" width="375px" alt="home pagina Nike.com">
+
 
 
   ### Agenda voor meeting
