@@ -59,14 +59,14 @@ Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal we
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  Tijdens de werkgroep van donderdag 5 september heb ik de nike website getest     met de voice over functie van macOS hieruit zijn de volgende bevindingen         uitgekomen:  
+  Tijdens de werkgroep van donderdag 5 september heb ik de nike website getest     met de voice over      functie van macOS hieruit zijn de volgende bevindingen         uitgekomen:  
 
-  Voice over slaat veel dingen over. De voice over benoemt de header, zoekbalk     etc. Verder verteld de voice over dat er een filmpje wordt afgespeeld (dat tevens ook de hero is van de pagina) en dat het filmpje zich in een groep bevindt en dat je een bepaalde shortcut moet invoeren wil je het filmpje kunnen bedienen; pauzeren, dempen, verder skippen etc. Wanneer je je buiten de groep bevindt skipt de voice over meteen door naar de eerst volgende product card rij, oftewel de articles. De hero die volgt na de main hero wordt volledig over geslagen. Na het benoemen van de eerste product card rij of articles, skipt de voice over meteen door naar de footer. 
+Voice over slaat veel dingen over. De voice over benoemt de header, zoekbalk     etc. Verder verteld de voice over dat er een filmpje wordt afgespeeld (dat tevens ook de hero is van de pagina) en dat het filmpje zich in een groep bevindt en dat je een bepaalde shortcut moet invoeren wil je het filmpje kunnen bedienen; pauzeren, dempen, verder skippen etc. Wanneer je je buiten de groep bevindt skipt de voice over meteen door naar de eerst volgende product card rij, oftewel de articles. De hero die volgt na de main hero wordt volledig over geslagen. Na het benoemen van de eerste product card rij of articles, skipt de voice over meteen door naar de footer. 
 
-  Na deze bevindingen heb ik de WCAG checklist getest, echter zijn de resultaten niet vergelijkbaar met de slechte accesibility van de voice over test. Mijn resultaten zijn meer ja dan nee en ook die van mijn 2e test persoon.
+Na deze bevindingen heb ik de WCAG checklist getest, echter zijn de resultaten niet vergelijkbaar met de slechte accesibility van de voice over test. Mijn resultaten zijn meer ja dan nee en ook die van mijn 2e test persoon.
 
-  Daardoor heb ik besloten om verder onderzoek te doen over hoe accesible de nike website werkelijk is.
-
+Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike website werkelijk is.
+  
   
 
   Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verrichten heeft.   
@@ -86,8 +86,6 @@ Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal we
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -107,20 +105,16 @@ Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal we
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  nvt.
 
+ 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+   Om eerlijk te zijn hebben mijn groepje en ik geen agenda opgesteld betreft de eerste voortgang. We hebben tijdens de meeting    wel met elkaar overlegd over hamburger menu's en layouts. Verder hebben de studentassistenten goed advies en feedback kunnen    geven.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+
+  - We hebben gevraagd of je echt gebruik moet maken van javascript en het antwoord was ja.
+    
 
 </details>
 
@@ -140,20 +134,12 @@ Het is de bedoeling dat ik de home pagina en de gekozen detail pagina uit zal we
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  nvt.
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Helaas kon ik niet aanwezig zijn voor de 2e voortgang wegens gezondheids redenen. 
 
 </details>
 
