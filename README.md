@@ -68,7 +68,7 @@ Na deze bevindingen heb ik de WCAG checklist getest, echter zijn de resultaten n
 Daardoor heb ik besloten om verder onderzoek te doen over hoe accessible de nike website werkelijk is. 
 
 Het had werkelijk 1 google search nodig en de artikelen over Nike.com kwamen al naar boven.
-Nike heeft dus blijkbaar een zeer slechte interface als het gaat over accessibility. Lees hieronder waarom: <a href="https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
+Nike heeft dus blijkbaar een zeer slechte interface als het gaat over accessibility. Lees hieronder waarom: <a> https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
   
   
 
