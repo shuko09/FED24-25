@@ -209,6 +209,11 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
   - nog een punt
   - ...
 
+zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra dingetjes moeten doen zoals een collapsible menu maken voor in de footer. Daarnaast ben ik begonnen aan de 2e pagina. Wat aan de late kant maar alas. Het gaat erom dat ik zo goed mogelijk de opdracht kan afronden. 
+
+
+
+
 </details>
 
 
@@ -249,7 +254,7 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. ChatGPT | text overlay on image. (z.d.). chatgpt.com. Geraadpleegd op 22 september 2024, van https://chatgpt.com/share/66f0b86e-86d4-800e-b4e8-315dd28ecdf9 (aanpassingen gemaakt)
   2. bron 2
   3. ...
 
