@@ -116,7 +116,7 @@ Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verricht
 
   - We hebben gevraagd of je echt gebruik moet maken van javascript en het antwoord was ja.
 
-Mijn voortgang voor de website zag er toen zo uit:
+Mijn voortgang voor de website zag er toen zo uit: <br>
 <img src="readme-images/voortgang-1.png" width="375px" alt="home pagina Nike.com">
 
     
@@ -143,8 +143,12 @@ Net als hoe ik mijn Futura bestand heb omgezet in een @font-face kit heb ik dat 
 Dit heb ik gedaan met een tool genaamd web font generator van Font Squirrel.
 <a>https://www.fontsquirrel.com/tools/webfont-generator</a>
 
-De voortgang ziet voor deze week zo uit: 
-<img src="readme-images/voortgang-2.png" width="375px" alt="home pagina Nike.com">
+De voortgang ziet voor deze week zo uit: <br>
+<img src="readme-images/voortgang-2.png" width="375px" alt="home pagina Nike.com"> <br>
+
+Zoals je kan zien, werkt de hero foto niet helemaal als ik zou willen. De bedoeling is namelijk dat de tekst op de foto komt en de foto zich uitrekt over de volledigheid van de div.
+
+Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later kan focussen op het fixen van de hero. Ik ben er later achter gekomen dat het eigenlijk geen hero is maar een product card, maar omdat het aan het begin van de pagina is gepositioneerd dient het ook als een hero.
 
 
 
