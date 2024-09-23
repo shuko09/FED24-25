@@ -117,6 +117,8 @@ Ik kan hieruit concluderen dat de website van nike nog erg veel werk te verricht
   - We hebben gevraagd of je echt gebruik moet maken van javascript en het antwoord was ja.
 
 Mijn voortgang voor de website zag er toen zo uit: <br>
+<img src="readme-images/voortgang-1-1.png" width="375px" alt="home pagina Nike.com"><br>
+en toen zo: <br>
 <img src="readme-images/voortgang-1.png" width="375px" alt="home pagina Nike.com">
 
     
