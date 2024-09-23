@@ -255,7 +255,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   Nb. Vermeld de bronnen ook in je code.
 
   1. ChatGPT | text overlay on image. (z.d.). chatgpt.com. Geraadpleegd op 22 september 2024, van https://chatgpt.com/share/66f0b86e-86d4-800e-b4e8-315dd28ecdf9 (aanpassingen gemaakt)
-  2. bron 2
+  2.ChatGPT | Collapsible menu. (z.d.). Chatgpt. Geraadpleegd op 23 september 2024, van https://chatgpt.com/c/66f187b2-b63c-800e-80c3-e95cce6ee009
   3. ...
 
 </details>
