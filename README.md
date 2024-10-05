@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood.
 
   #### Je focus:
-  Mijn focus ligt als eerst op responsive en wanneer ik de website responsive heb gemaakt zal ik verder verdiepen op de surface.
+  Mijn focus ligt op de surface plane.
  
 </details>
 
@@ -252,12 +252,9 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
   1. ChatGPT | text overlay on image. (z.d.). chatgpt.com. Geraadpleegd op 22 september 2024, van https://chatgpt.com/share/66f0b86e-86d4-800e-b4e8-315dd28ecdf9 (aanpassingen gemaakt)
   2.ChatGPT | Collapsible menu. (z.d.). Chatgpt. Geraadpleegd op 23 september 2024, van https://chatgpt.com/c/66f187b2-b63c-800e-80c3-e95cce6ee009
-  3. ...
+  3. Font displaying issues, SVG nav & menu links not showing | ChatGPT | (z.d) Chatgpt. Geraadpleegd op 28 september 2024, van https://chatgpt.com/c/66f811ef-c174-800e-a122-314b52acb17b
+  4. nike (Netherlands) | afbeeldingen. (z.d.). Nike.com. https://www.nike.com/nl/
 
 </details>
