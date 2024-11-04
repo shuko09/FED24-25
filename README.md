@@ -226,9 +226,11 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
 
 
   
-   <img src="readme-images/home-page.png" width="375px" alt="uitomst opdracht 1">
-    <img src="readme-images/detail-page.png" width="375px" alt="top">
-   <img src="readme-images/side-menu.png" width="375px" alt="top">
+   <img src="readme-images/home-page.png" width="375px" alt="uitomst opdracht 1"><br>
+    <img src="readme-images/detail-page.png" width="375px" alt="top"><br>
+   <img src="readme-images/side-menu.png" width="375px" alt="top"><br>
+   
+   
    
   
 
@@ -250,6 +252,8 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
     <img src="readme-images/pijl.png" width="375px" alt="bummer">
   <img src="readme-images/fontface.png" width="375px" alt="bummer">
   <img src="readme-images/menu knoppen" width="375px" alt="bummer">
+  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+  <img src="readme-images/niet-goed-tekst.png" width="375px" alt="bummer">
 </details>
 
 
