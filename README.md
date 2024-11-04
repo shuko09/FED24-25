@@ -177,6 +177,11 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
 
   ### Bevindingen
  In de toegankelijkheids test voor mijn eigen website is het volgende naar boven gekomen:
+
+ Ik ervaar dat ik de website beter kan navigeren met de voice over functie dan op de officiele nike website.
+ Het is overzichtelijker en makkelijker te volgen, vooral als een persoon die dit helemaal niekt nodig heeft. 
+ <img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+ 
  
 
 </details>
@@ -251,7 +256,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
    <img src="readme-images/pijl path.png" width="375px" alt="bummer">
     <img src="readme-images/pijl.png" width="375px" alt="bummer">
   <img src="readme-images/fontface.png" width="375px" alt="bummer">
-  <img src="readme-images/menu knoppen" width="375px" alt="bummer">
+  <img src="readme-images/menu knoppen.png" width="375px" alt="bummer">
   <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
   <img src="readme-images/niet-goed-tekst.png" width="375px" alt="bummer">
 </details>
