@@ -179,8 +179,15 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
  In de toegankelijkheids test voor mijn eigen website is het volgende naar boven gekomen:
 
  Ik ervaar dat ik de website beter kan navigeren met de voice over functie dan op de officiele nike website.
- Het is overzichtelijker en makkelijker te volgen, vooral als een persoon die dit helemaal niekt nodig heeft. 
- <img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+ Het is overzichtelijker en makkelijker te volgen, vooral als een persoon die dit helemaal niekt nodig heeft. <br>
+ <img src="readme-images/toegankelijkheids-test-2" width="375px" alt="test 2"> <br>
+
+ Ook slaat de voiceover functie op mijn website niks over en dat is denk ik een grote verbetering.
+
+ Verder kan ik er niet heel veel over zeggen, enkel dat ik van mening ben dat mijn website beter functioneerd dan Nike zelf.
+
+ 
+ 
  
  
 
@@ -275,6 +282,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   3. Font displaying issues, SVG nav & menu links not showing | ChatGPT | (z.d) Chatgpt. Geraadpleegd op 28 september 2024, van https://chatgpt.com/c/66f811ef-c174-800e-a122-314b52acb17b
   4. nike (Netherlands) | afbeeldingen. (z.d.). Nike.com. https://www.nike.com/nl/
   5.  W3Schools online HTML editor. (z.d.). Geraadpleegd op 23 september 2024, van https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol
+  6.  <a> https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
      
 
 
