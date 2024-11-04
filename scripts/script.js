@@ -19,4 +19,16 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     }
   });
+
+  function toggleMenu() {
+    const menu = document.querySelector('.side-menu');
+    const isOpen = menu.classList.contains('open');
   
+    if (isOpen) {
+      menu.classList.remove('open');
+      menu.setAttribute('aria-hidden', 'true');
+    } else {
+      menu.classList.add('open');
+      menu.setAttribute('aria-hidden', 'false');
+    }
+  }
