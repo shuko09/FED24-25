@@ -317,8 +317,12 @@ De pijltjes zijn nog steeds niet gelukt om toe te voegen.
 
   Met het overal plaatje ben ik zeer tevreden over hoe alles eruit is komen te zien.
 
-  <img src="readme-images/detail-page.png" width="375px" alt="top">
-   <img src="readme-images/side-menu.png" width="375px" alt="top">
+  <img src="readme-images/home-2.png" width="375px" alt="new home screen">
+   <img src="readme-images/detail-1.png" width="375px" alt="detail 1">
+   <img src="readme-images/detail-2.png" width="375px" alt="detail 2">
+   <img src="readme-images/detail-3.png" width="375px" alt="detail 3">
+   <img src="readme-images/detail-4.png" width="375px" alt="detail 4">
+   <img src="readme-images/detail-5.png" width="375px" alt="detail 5">
 
 ## Bronnenlijst
 
