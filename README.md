@@ -187,11 +187,11 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
  Verder kan ik er niet heel veel over zeggen, enkel dat ik van mening ben dat mijn website beter functioneerd dan Nike zelf.
 
  Hieronder zal ik beide toegangkelijkheids testen als foto's inladen: <br>
-<img src="readme-images/test1.png" width="375px" alt="test 1"><br>
-<img src="readme-images/test2.png" width="375px" alt="test 2"><br>
-<img src="readme-images/test3.png" width="375px" alt="test 3"><br>
-<img src="readme-images/test4.png" width="375px" alt="test 4"><br>
-<img src="readme-images/test5.png" width="375px" alt="test 5"><br>
+<img src="readme-images/test1.png" width="375px" alt="test 1">
+<img src="readme-images/test2.png" width="375px" alt="test 2">
+<img src="readme-images/test3.png" width="375px" alt="test 3">
+<img src="readme-images/test4.png" width="375px" alt="test 4">
+<img src="readme-images/test5.png" width="375px" alt="test 5">
 </details>
 
 
@@ -236,17 +236,10 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   voor de detail pagina zijn er veel dingen gelukt maar ook een aantal dingen niet. Zo heb ik bijvoorbeeld niet de pijltjes die nike heeft niet kunnen implementeren en is het toevoegen van de pijltjes onderaan de collapsible niet gelukt. Ook is het niet gelukt om de tekst in de cards onderaan de index te krijgen voor de memberships.
 
 
-
-
-  
    <img src="readme-images/home-page.png" width="375px" alt="uitomst opdracht 1"><br>
     <img src="readme-images/detail-page.png" width="375px" alt="top"><br>
    <img src="readme-images/side-menu.png" width="375px" alt="top"><br>
    
-   
-   
-  
-
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
@@ -285,32 +278,32 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   5 surface plane dingen toevoegen;
   
   - Light/Dark mode
-<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> <br>
-<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> <br>
+<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> 
+<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> 
 
   - Text increase
-<img src="readme-images/text-increase.png" width="375px" alt="text-increase"> <br>
+<img src="readme-images/text-increase.png" width="375px" alt="text-increase">
 
   - audio feedback (deel van de back to top button, wordt gebruikt als audio feedback)
-<img src="readme-images/back-to-top" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/back-to-top" width="375px" alt="uitomst opdracht 1"> 
 
   - add to cart
-<img src="readme-images/winkelmand.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/winkelmand.png" width="375px" alt="uitomst opdracht 1"> 
 
   - back to top button
-<img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1">
 
 Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
-<img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1">
 
 Niet gelukt:
 
   De pijltjes zijn nog steeds niet gelukt om toe te voegen.
-  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer"><br>
+  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
   
   Het is ook niet gelukt om alles in volledige dark mode over te zetten. Denk aan de nav en de collapsible.
-<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> <br>
-<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> <br>
+<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> 
+<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> 
 
   Ook is het niet gelukt om mijn aside menu scrollbaar te maken omdat het een fixed position moet hebben. Anders gaat de layout helemaal warrig. Ik heb meerdere dingen geprobeerd zoals de position op absolute te zetten en een section om de inhoud van de menu heen te doen maar dat deed niks. Het moest helaas zo blijven staan. Wat wel is gelukt is om de inhoud van de menu zelf nog verder aan te vullen.
 <img src="readme-images/menu.png" width="375px" alt="bummer">
