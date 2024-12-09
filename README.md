@@ -293,7 +293,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   - back to top button
 <img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1">
 
-<br>
+- Product cards text overlay
 Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
 <img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1">
 
