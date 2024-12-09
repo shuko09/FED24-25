@@ -269,7 +269,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   
    Voor de 3e herkansing:
  <i> voor de detail pagina zijn er veel dingen gelukt maar ook een aantal dingen niet. Zo heb ik bijvoorbeeld niet de pijltjes die nike heeft niet kunnen implementeren en is het toevoegen van de pijltjes onderaan de collapsible niet gelukt. Ook is het niet gelukt om de tekst in de cards onderaan de index te krijgen voor de memberships.<i>
-   <img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+  <br> <img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1">
  
   Nieuwe dingen dat ik heb gedaan voor de herkansing:
 
@@ -293,6 +293,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   - back to top button
 <img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1">
 
+<br>
 Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
 <img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1">
 
