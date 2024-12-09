@@ -38,9 +38,10 @@
     
           <li>
             <a href="">
-              <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="24px" height="24px" fill="none">
+              <svg class="add-to-cart" onclick="addToCart" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="24px" height="24px" fill="none">
                 <path stroke="currentColor" stroke-width="1.5" d="M8.25 8.25V6a2.25 2.25 0 012.25-2.25h3a2.25 2.25 0 110 4.5H3.75v8.25a3.75 3.75 0 003.75 3.75h9a3.75 3.75 0 003.75-3.75V8.25H17.5"></path>
               </svg>
+              <p class="cart-count">0</p>
             </a>
           </li>
 
@@ -69,7 +70,7 @@
                   </ul>
 
                   <ul>
-                    <li>  
+                    <li>
                     <a href="index.html">
                         <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="24px" height="24px" fill="none"><path fill="currentColor" fill-rule="evenodd" d="M13.182 3.733c-.012-.039-.012-.039-.012-.072a.966.966 0 01.922-1.007.97.97 0 011.007.922.964.964 0 01-.917 1.007c-.027.004-.062 0-.101 0-.016.004-.04.004-.056.022-.056.084.14.073-.005.44 0 0 0 .038-.012.077-.012.14-.08.562-.096.793.029.04.04.05.029.13a6.003 6.003 0 01-.09.534c-.04.14-.096.174-.147.202-.073.298-.095.545-.281.905-.022.276-.045.35-.106.484-.017.4.01.46-.281 1.101-.08.3-.017.507.05.821.068.321.276.461.298.793.05.771.017 1.305-.163 1.907l.135.348c.18.084.618.326.36.675.343.19.865.394 1.28.781.176.147.35.315.513.5.316.057.276.08.506.231.675.438 1.749 1.304 2.373 1.906.112.067.147.112.236.163.01.023.017.034.01.04-.026.072-.026.072-.06.14.039.04.095.073.134.107.04.005.04-.006.096-.017.079.073.18.135.214.135.106-.022.084-.005.185-.1.029-.035.084 0 .084 0 .04-.04.113-.119.214-.176.079-.045.23-.045.23-.045.052.006.04.051.029.073-.057.023-.18.057-.247.108-.152.14-.276.353-.276.353.299-.033.484.045.719.023.136-.005.237.006.377-.09 0 0 .14-.096.265-.14.118-.05.23-.017.33.062.069.084.119.084 0 .196-.044.045-.1.096-.18.17-.133.123-.313.291-.5.432a3.11 3.11 0 01-.527.315c-.338.23-.26.174-.523.394-.03.022-.124.078-.163.106-.107.062-.135.006-.197-.118 0 0-.028-.045-.08-.14-.05-.107-.09-.23-.072-.23-.062-.007-.331-.344-.331-.41-.063-.013-.304-.26-.31-.31l-.214-.18c-.253.044-.31-.113-.961-.608-.08-.006-.197-.05-.36-.174-.298-.253-1.007-.815-1.124-.883-.13-.067-.281-.134-.383-.214-.146-.022-.218-.05-.298-.067-.08-.022-.14-.057-.326-.079-.303-.045-.618-.18-.911-.337-.14-.073-.264-.107-.382-.169-.27-.124-.506-.236-.686-.28a2.148 2.148 0 01-.568-.226c-.061-.034-.095-.06-.134-.073-.09-.022-.153.006-.192.022-.23.108-.438.203-.636.31-.18.09-.348.186-.528.286a7.971 7.971 0 01-.534.254s-.534.253-.832.348c-.26.197-.787.546-1.107.715-.158.073-.467.252-.608.292-.08.061-.371.258-.596.421-.18.124-.31.231-.31.231-.106.084-.101.13-.28.045a1.491 1.491 0 00-.13.096c-.14.095-.146.073-.202.067-.101.08-.113.04-.197.13-.061.084 0 .061-.118.106-.028.006-.04.04-.057.056-.094.073-.1.293-.325.304-.135.09-.107.203-.197.191 0 .102-.18.23-.214.23-.292.096-.304-.118-.646.035-.045.016-.113.072-.197.084-.152.022-.332-.006-.444-.102a1.93 1.93 0 01-.326-.398c-.051-.13-.017-.208.163-.332.073-.045.084-.079.208-.084.06-.024.045.01.15-.024.064-.016.064-.005.193-.005.028-.017.067-.022.124-.045.1-.034.196-.062.196-.062s.028-.023.124-.01c.078-.035.169-.08.214-.097-.012-.124.005-.124.06-.174.08-.062.09-.05.148-.01.022-.007.039-.013.027-.035-.01-.073-.061-.107-.045-.247-.022-.057-.061-.129-.05-.174.01-.045.028-.069.056-.079.029-.012.045.006.057.022.028.034.05.135.05.135.006.118.04.26.152.18.067-.062.084-.242.214-.203l.096.085c.084-.073.084-.073.14-.107 0 0-.08-.073-.012-.135.045-.039.108-.067.208-.175.276-.292.422-.42.714-.657a6.811 6.811 0 011.699-.939c.146-.174.28-.286.585-.304.377-.606 1.085-1.136 1.248-1.22.134-.23.19-.208.365-.247.135-.107.175-.107.23-.214.063-.23-.112-.86.383-.877.112-.146.078-.112.196-.248a2.19 2.19 0 01-.118-.5c-.005-.016-.196-.157-.13-.332a2.33 2.33 0 01-.268-.432.202.202 0 01-.063-.012c-.022-.005-.055-.005-.09-.005-.078.196-.163.208-.303.253-.26.512-.35.731-1.046 1.142-.28.298-.382.64-.382.634a.46.46 0 00-.012.321c-.045.107-.027.124-.027.124.01.045.056.106.106.112.079.023.169.023.158.118-.011.113-.163.09-.237.073-.275-.05-.185-.23-.365-.174-.141.085-.196.348-.416.31-.028-.023-.017-.074.006-.119.028-.06.084-.118.056-.14-.146.04-.433.123-.433.123-.135.04-.281-.039-.147-.124.063-.022.153-.05.265-.118 0 0 .062-.072-.057-.039a1.144 1.144 0 01-.416.045s-.257-.039-.292-.056c-.028-.022-.061-.107.017-.1a2.71 2.71 0 00.563-.068c.095-.035.28-.14.382-.186 0 0 .113-.157.18-.19.107-.114.19-.18.28-.299.09-.18.192-.46.5-.906a4.16 4.16 0 01.535-.646s.062-.338.343-.573c.063-.14.157-.31.259-.462a1.7 1.7 0 00.106-.168c.09-.13.186-.377.518-.41 0 0 .147-.102.197-.175.084-.073.074-.186.14-.259-.106-.106-.365-.309-.382-.573a.85.85 0 01.265-.692c.196-.185.398-.275.646-.258.309.055.366.157.455.258.09.101.13.04.163.146.259.073.248.045.237.236.045.057.106.108.1.214.085-.175.108-.208.344-.399.062-.157.1-.315.15-.478.052-.146.114-.298.154-.41-.04-.326.06-.377.196-.664-.022-.039-.016-.05-.006-.112.057-.192.136-.433.186-.596 0 0 .017-.063.085-.063.06-.202.157-.579.179-.663.062-.208.029-.287-.01-.41-.012-.04-.006-.09-.03-.136a5.483 5.483 0 01-.19-.41c-.028-.073-.08-.354-.08-.354-.004-.062-.004-.09-.004-.09z" clip-rule="evenodd"></path></svg>Jordan</a>
                     </li>
@@ -84,8 +85,10 @@
                 </ul>
 
                 <ul>
+                  <section class="menu-buttons">
                   <button class="menu-black-button">Join Us</button>
-                  <button class="menu-white-button">Join Us</button>
+                  <button class="menu-white-button">Log in</button>
+                </section>
               </ul>
 
               </aside>
@@ -104,9 +107,13 @@
         <h3 class="naam">Nike Air Max Dn SE</h3>
         <p class="schoen">Schoenen</p>
         <p class="prijs">€179,99</p>
+        </section>
+
         <section class="product-grid">
+          <a href="#" class="shop-button-6"> <svg class="ster" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="20px" height="20px" fill="none"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M2.56 10.346l5.12 3.694-1.955 5.978c-.225.688.568 1.261 1.157.836L12 17.159l5.12 3.695c.587.425 1.381-.148 1.155-.836l-1.954-5.978 5.118-3.694c.589-.425.286-1.352-.442-1.352H14.67l-.166-.507-1.789-5.47c-.225-.69-1.205-.69-1.43 0L9.33 8.993H3.003c-.728 0-1.03.927-.442 1.352z" clip-rule="evenodd"></path></svg><p class="rating">Highly rated</p></a>
 
             <!-- nike (Netherlands) | afbeeldingen. (z.d.). Nike.com. https://www.nike.com/nl/ -->
+
             <article class="product-card-dn">
                 <img src="images/airmax-dn/zijkant-links.jpeg" alt="Air Max">
             </article>
@@ -149,6 +156,12 @@
         </section>
     </section>
 
+    <figure class="wijzer">
+      <p class="promo2">Selecteer maat</p>
+        <svg class="maat" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="24px" height="24px" fill="none"><path stroke="currentColor" stroke-width="1.5" d="M21.75 10.5v6.75a1.5 1.5 0 01-1.5 1.5H3.75a1.5 1.5 0 01-1.5-1.5V10.5m3.308-2.25h12.885"></path><path stroke="currentColor" stroke-width="1.5" d="M15.79 5.599l2.652 2.65-2.652 2.653M8.21 5.599l-2.652 2.65 2.652 2.653M17.25 19v-2.5M12 19v-2.5M6.75 19v-2.5"></path></svg>
+        <p class="promo3">Maatwijzer</p>
+     </figure>
+
     <section class="maten">
         <button class="dn-maat">EU 38.5</button>
         <button class="dn-maat">EU 39</button>
@@ -170,12 +183,89 @@
         <button class="dn-maat">EU 49.5</button>
     </section>
 
-    <section>
+    <figure>
+      <img class="klarna" src="images/klarna.png" alt="klarna">
+      <p class="promo1">Beschikbaar bij het afrekenen.</p>
+     </figure>
+
+    <section class="knopjes">
       <ul>
-        <button class="zwart-knopje"></button>
-        <button class="wit-knopje"></button>
+        <li>
+        <button class="zwart-knopje" onclick="addToCart()"><p class="knopjes-txt">Voeg toe aan winkelmandje</p></button>
+        <button class="wit-knopje"><p class="knopjes-txt">Markeer als favoriet</p> <svg class="hartje" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="24px" height="24px" fill="none"><path stroke="currentColor" stroke-width="1.5" d="M16.794 3.75c1.324 0 2.568.516 3.504 1.451a4.96 4.96 0 010 7.008L12 20.508l-8.299-8.299a4.96 4.96 0 010-7.007A4.923 4.923 0 017.205 3.75c1.324 0 2.568.516 3.504 1.451l.76.76.531.531.53-.531.76-.76a4.926 4.926 0 013.504-1.451"></path><title>non-filled</title></svg></button>
+      </li>
+        </ul>
     </section>
 
+    <section class="promotie">
+      <p class="promo">Dit product komt niet in aanmerking voor promoties en kortingen op de site.</p>
+    </section>
+
+    <section class="info"> 
+
+      <article class="ophalen">
+        <h4 class="store">Gratis ophalen <br> <span>Zoek een store</span></h4>
+        <p class="click">Click &amp; Collect kan worden gekozen bij het afrekenen.</p>
+      </section>
+
+      <section class="quote">
+        <article class="quote-1">
+          <p class="recycle">Dit product bestaat voor minstens 20% van het gewicht uit gerecycled materiaal</p>
+        </article>
+      </section>
+
+      <section class="product-description">
+        <!--ChatGPT - Increase text size button. (z.d.). ChatGPT. https://chatgpt.com/share/67577428-ecac-800e-a465-f033f602a433 (AANGEPASTE CODE!)-->
+        <button class="text-clicky" onclick="increaseTextSize()">Aa</button>
+        <h4 class="product-txt">Zeg hallo tegen de volgende generatie Air technologie. De Air Max Dn is voorzien van ons Dynamic Air unit systeem van dubbele drukbuizen, waardoor bij elke stap een veerkrachtig gevoel ontstaat. Dit resulteert in een futuristisch design dat comfortabel genoeg is om overdag en 's avonds te dragen. Voel het zelf, Feel the Unreal.</h4>
+        
+
+        <ul class="bullet-point">
+            <li class="bullet">Weergegeven kleur: Sky Blue/Hyper Blue/Chamois</li> <br>
+            <li class="bullet">Style: HM0810-401</li> 
+        </ul>  
+      </section>
+
+      <section class="pop-out">
+        <article class="slide-up">
+          <span class="bekijk">Bekijk productgegevens</span>
+        </article>
+      </section>
+
+<!--W3Schools online HTML editor. (z.d.). Geraadpleegd op 23 september 2024, van https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol--> 
+
+        <!-- start code -->
+
+      <button class="collapsible">Gratis verzending en <br> retourneren</button>
+      <section class="content">
+          <ul>
+              <li><p class="info">Gratis standaardlevering met je Nike membership.<br>
+               <span class="bold">LANGERE RETOURTERMIJN VOOR DE FEESTDAGEN</span> <br>
+                Aankopen van Nike gedaan tussen 1 november 2024 en 31 december 2024 hebben een verlengde retourtermijn van 60 dagen <span>(met enkele uitzonderingen)</span>.</p></li>
+          </ul>   
+      </section>
+
+      <hr>
+
+      <button class="collapsible">Zo wordt het gemaakt</button>
+      <section class="content">
+          <ul>
+            <li><p class="info">Dit product is verantwoord ontworpen met gebruik van gerecyclede materialen van weggegooide consumentenproducten en/of overgebleven productiematerialen. Een van onze grootste stappen op onze weg naar een CO2-neutraal en afvalvrij proces is de keuze van onze materialen, omdat de voetafdruk van elk product hier voor meer dan 70% uit bestaat. Door bestaand plastic, garen en textiel opnieuw te gebruiken, kunnen we onze uitstoot aanzienlijk verminderen. Het is ons doel om zo veel mogelijk gerecyclede materialen te gebruiken, zonder in te leveren op performance, robuustheid en stijl.
+              Lees hier meer over ons project Move to Zero, waarbij we werken aan een CO2-neutraal en afvalvrij productieproces. We willen producten ontwerpen met duurzaamheid in ons achterhoofd om zo de toekomst te beschermen van de wereld waar we wonen en spelen.</p></li>
+          </ul>   
+      </section>
+
+      <hr>
+
+      <button class="collapsible">Beoordelingen (36)<svg class="sterren" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="20px" height="20px" fill="none"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M2.56 10.346l5.12 3.694-1.955 5.978c-.225.688.568 1.261 1.157.836L12 17.159l5.12 3.695c.587.425 1.381-.148 1.155-.836l-1.954-5.978 5.118-3.694c.589-.425.286-1.352-.442-1.352H14.67l-.166-.507-1.789-5.47c-.225-.69-1.205-.69-1.43 0L9.33 8.993H3.003c-.728 0-1.03.927-.442 1.352z" clip-rule="evenodd"></path></svg><svg class="sterren" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="20px" height="20px" fill="none"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M2.56 10.346l5.12 3.694-1.955 5.978c-.225.688.568 1.261 1.157.836L12 17.159l5.12 3.695c.587.425 1.381-.148 1.155-.836l-1.954-5.978 5.118-3.694c.589-.425.286-1.352-.442-1.352H14.67l-.166-.507-1.789-5.47c-.225-.69-1.205-.69-1.43 0L9.33 8.993H3.003c-.728 0-1.03.927-.442 1.352z" clip-rule="evenodd"></path></svg><svg class="sterren" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="20px" height="20px" fill="none"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M2.56 10.346l5.12 3.694-1.955 5.978c-.225.688.568 1.261 1.157.836L12 17.159l5.12 3.695c.587.425 1.381-.148 1.155-.836l-1.954-5.978 5.118-3.694c.589-.425.286-1.352-.442-1.352H14.67l-.166-.507-1.789-5.47c-.225-.69-1.205-.69-1.43 0L9.33 8.993H3.003c-.728 0-1.03.927-.442 1.352z" clip-rule="evenodd"></path></svg><svg class="sterren" aria-hidden="true" focusable="false" viewBox="0 0 24 24" role="img" width="20px" height="20px" fill="none"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M2.56 10.346l5.12 3.694-1.955 5.978c-.225.688.568 1.261 1.157.836L12 17.159l5.12 3.695c.587.425 1.381-.148 1.155-.836l-1.954-5.978 5.118-3.694c.589-.425.286-1.352-.442-1.352H14.67l-.166-.507-1.789-5.47c-.225-.69-1.205-.69-1.43 0L9.33 8.993H3.003c-.728 0-1.03.927-.442 1.352z" clip-rule="evenodd"></path></svg></button>
+      <section class="content">
+          <ul>
+              <li><a class="footer-menu-collaps" href="">Cadeaubonnen</a></li>
+          </ul>   
+      </section>
+
+      <hr>
+      <!--einde code-->
 
     <section class="products-section">
         <h3>Nieuw deze week</h3>
@@ -335,6 +425,7 @@
         <a class="footer-menu-collaps" href="">Nike Vaporfly</a>
     </section>
 <!-- end code  -->
+ 
 
 <ul class="footer">
     <li><a class="footer-list" href="">Gebruikersvoorwaarden</a></li>
@@ -343,6 +434,8 @@
     <li><a class="footer-list" href="">Privacy- en cookiebeleid</a></li>
     <li><a class="footer-list" href="">Privacy en cookie-instellingen</a></li>
 </ul>
+
+
    
 
 </body>

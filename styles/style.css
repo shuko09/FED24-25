@@ -1,3 +1,10 @@
+:root {
+  --achtergrond: var(white);
+  --text: var(black);
+  --contrastje: var(#dfdfdf);
+  --donkercontrast: var(grey);
+}
+
 @font-face {
   font-family: "Nike-Futura";
   src: url("../fonts/Nike-Futura.woff2") format("woff2");
@@ -5,8 +12,19 @@
 
 body {
   font-family: sans-serif;
+  --achtergrond: #ffffff;
+  --text: #000000;
+  background-color: var(--achtergrond);
+  color: var(--text);
   margin: 0;
   padding: 0;
+}
+
+/* ChatGPT - Light Dark Mode Toggle. (z.d.). ChatGPT. https://chatgpt.com/share/675773b6-4890-800e-82ad-423b189a48c6 (AANGEPASTE CODE!)--> */
+
+body.dark {
+  --achtergrond: #000000;
+  --text: #ffffff;
 }
 
 h1 {
@@ -49,7 +67,7 @@ nav {
 }
 
 .navbar svg {
-  width: 1.5rem; 
+  width: 1.5rem;
   height: 1.5rem;
   margin-right: 0.5rem;
 }
@@ -64,8 +82,8 @@ nav {
 .menu {
   position: fixed;
   top: 0;
-  right: -100%; 
-  width: 300px; 
+  right: -100%;
+  width: 300px;
   height: 100%;
   background-color: white;
   transition: right 0.3s ease;
@@ -74,13 +92,12 @@ nav {
   z-index: 100;
 }
 
-.menu-h4{
-	font-weight: 500;
-	padding: 1.5em;
-	font-size: 1.3em;
-	line-height: 1.5;
-	color: grey;
-
+.menu-h4 {
+  font-weight: 500;
+  padding: 1.5em;
+  font-size: 1.3em;
+  line-height: 1.5;
+  color: grey;
 }
 
 .menu-item {
@@ -88,11 +105,11 @@ nav {
 }
 
 .menu[aria-hidden="false"] {
-  right: 0; 
+  right: 0;
 }
 
 .side-menu.open {
-  right: 0; 
+  right: 0;
 }
 
 .side-menu a {
@@ -121,35 +138,32 @@ button {
   background-color: white;
 }
 
-.menu-black-button{
-  display: inline-block;
-  padding: 0.5rem 1.5rem;
-  background-color: black;
-  color: white;
-  text-decoration: none;
-  font-weight: light;
-  border-radius: 50px;
-  z-index: 3;
-  position: absolute;
-  z-index: 3;
-  top: 80%;
-  left: 5%;
-
+.menu-buttons {
+  display: flex;
+  gap: 1rem;
+  padding: 1em;
+  margin-top: -4.2em;
 }
 
-.menu.white.button{
+.menu-black-button,
+.menu-white-button {
   display: inline-block;
   padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.menu-black-button {
+  background-color: black;
+  color: white;
+  border-radius: 3em;
+}
+
+.menu-white-button {
   background-color: white;
   color: black;
-  text-decoration: none;
-  font-weight: light;
-  border-radius: 50px;
-  z-index: 3;
-  position: absolute;
-  z-index: 3;
-  top: 70%;
-  left: 20%;
+  border: 1px solid gray;
+  border-radius: 3em;
 }
 
 .navbar button[aria-expanded="true"] {
@@ -159,40 +173,228 @@ button {
 }
 
 .side-menu {
-  height: 100%;
-  width: 320px; 
+  height: 100vh;
+  width: 320px;
   position: fixed;
   top: 0;
   right: -350px;
   background-color: white;
-  box-shadow: -30px 0 50px rgba(0, 0, 0, 0.5);
+  box-shadow: -10px 0 50px rgba(0, 0, 0, 0.5);
   overflow-x: hidden;
-  transition: 0.5s; 
+  transition: 0.5s;
   padding-top: 60px;
-  z-index: 1000; 
+  z-index: 1000;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
-.maten{
-	border: none;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); 
-    gap: 0.5em; 
-    width: 100%;
-    max-width: 20em;
-    margin: auto;
+.back-to-top {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 0.8em 1em;
+  font-size: 1em;
+  border-radius: 0.5em;
+  cursor: pointer;
 }
 
-.dn-maat{
-background-color: white;
-border: 1px solid black;
-padding: 1em 0;
-text-align: center;
-font-size: 1em;
-border-radius: 5px;
+.maten {
+  border: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.8em;
+  width: 100%;
+  max-width: 21em;
+  margin: auto;
 }
 
-.klarna{
+.knopjes {
+  display: grid;
+  place-items: center;
+  position: relative;
+  margin-top: -1.4em;
+}
+
+.knopjes-txt {
+  font-size: 1.4em;
+  font-weight: 500;
+}
+
+.knopjes-txt-2 {
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.zwart-knopje {
+  background-color: black;
+  color: white;
+  width: 29em;
+  height: 5.5em;
+  display: block;
+  border-radius: 3em;
+  cursor: pointer;
+}
+
+.wit-knopje {
+  background-color: white;
+  color: black;
+  margin-top: 1em;
+  width: 29em;
+  height: 5.5em;
+  display: block;
+  border-radius: 3em;
+  border: 0.2em solid #dfdfdf;
+  display: grid;
+  grid-template-columns: 250px auto;
+}
+
+.wit-knopje-2 {
+  background-color: white;
+  color: black;
+  margin-top: 1em;
+  width: 10em;
+  height: 3em;
+  display: block;
+  border-radius: 3em;
+  border: 0.2em solid #dfdfdf;
+  display: grid;
+  grid-template-columns: 250px auto;
+}
+
+.dn-maat {
+  background-color: white;
+  border: 1px solid #dfdfdf;
+  padding: 1em 0;
   text-align: center;
+  font-size: 1em;
+  border-radius: 5px;
+}
+
+.promotie {
+  padding: 1em;
+  margin-top: -1.8em;
+}
+
+.promo {
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1em;
+  color: grey;
+}
+
+.promo2 {
+  margin: 0;
+  text-align: left;
+  margin-left: -0.7em;
+}
+
+.promo3 {
+  margin: 0;
+  text-align: right;
+}
+
+.wijzer {
+  display: grid;
+  grid-template-columns: auto 5em auto;
+  align-items: center;
+  gap: 1em;
+}
+
+.hartje {
+  margin-top: 1.2em;
+  margin-left: -4em;
+}
+
+.promo1 {
+  margin-left: 4em;
+  margin-top: 0.4em;
+  text-align: right;
+}
+
+.klarna {
+  width: 5.6em;
+  margin-bottom: -2.4em;
+  margin-left: -0.7em;
+}
+
+.maat {
+  margin-left: 4em;
+}
+
+.store {
+  padding: 1em;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.click {
+  padding: 1em;
+  margin-top: -2em;
+  color: grey;
+  line-height: 1.5em;
+}
+
+.quote-1 {
+  margin: 1em;
+  background-color: #f3f3f3;
+}
+
+.recycle {
+  padding: 2em;
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
+.bullet-point {
+  padding: 1em;
+}
+
+.bullet-list {
+  padding: 1em;
+}
+
+.slide-up {
+  padding: 1em;
+}
+
+.bekijk {
+  font-size: 1.1em;
+}
+
+.info {
+  line-height: 1.5em;
+}
+
+.meer {
+  color: black;
+  text-decoration: none;
+}
+
+.product-txt {
+  padding: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 1em;
+}
+
+.text-clicky {
+  padding: 1em 2em;
+  font-size: 0.8em;
+  cursor: pointer;
+  background-color: black;
+  color: #fff;
+  margin-left: 1em;
+  border-radius: 1em;
+}
+
+.bold {
+  text-decoration: none;
+  font-weight: 600;
 }
 
 /* ChatGPT | text overlay on image. (z.d.). chatgpt.com. Geraadpleegd op 22 september 2024, van https://chatgpt.com/share/66f0b86e-86d4-800e-b4e8-315dd28ecdf9 */
@@ -267,7 +469,6 @@ border-radius: 5px;
   border-radius: 50px;
   z-index: 3;
   position: absolute;
-  z-index: 3;
   top: 80%;
   left: 5%;
 }
@@ -287,17 +488,69 @@ border-radius: 5px;
   left: 50%;
 }
 
+.shop-button-4 {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  font-weight: light;
+  border-radius: 50px;
+  z-index: 3;
+  position: absolute;
+  top: 85%;
+  left: 5%;
+}
+
+.shop-button-5 {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  font-weight: light;
+  border-radius: 50px;
+  z-index: 3;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+}
+
+.shop-button-6 {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  height: 2em;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  font-weight: light;
+  border-radius: 50px;
+  z-index: 3;
+  position: absolute;
+  top: 50%;
+  left: 5%;
+}
+
+.ster {
+  margin-top: 0.2em;
+}
+
+.rating {
+  margin-left: 1.6em;
+  margin-top: -1.3em;
+}
+
 h5 {
   font-weight: 500;
   font-size: 0.9em;
 }
 
-.duurzaam{
-	font-weight: 500;
-	font-size: 1em;
-	color: orangered;
-	margin-bottom: -20px;
-  }
+.duurzaam {
+  font-weight: 500;
+  font-size: 1em;
+  color: orangered;
+  margin-bottom: -20px;
+}
 
 .product {
   font-size: 0.9em;
@@ -306,9 +559,9 @@ h5 {
 }
 
 .schoen {
-	font-size: 1em;
-	margin-top: -15px;
-  }
+  font-size: 1em;
+  margin-top: -15px;
+}
 
 .logo {
   width: 70px;
@@ -373,9 +626,9 @@ span {
 }
 
 .products-section-dn {
-	padding: 1em;
-	overflow-x: hidden;
-  }
+  padding: 1em;
+  overflow-x: hidden;
+}
 
 .product-grid {
   display: flex;
@@ -385,10 +638,14 @@ span {
 }
 
 .product-grid-dn {
-	display: flex;
-	overflow-x: auto;
-	padding-bottom: 0.625em;
-  }
+  display: flex;
+  overflow-x: auto;
+  padding-bottom: 0.625em;
+}
+
+.sterren {
+  margin-left: 0.2em;
+}
 
 .product-card {
   overflow: hidden;
@@ -401,14 +658,14 @@ span {
 }
 
 .product-card-dn {
-	overflow: hidden;
-	text-align: left;
-	cursor: pointer;
-	position: relative;
-	padding: -1em;
-	width: 23em;
-	flex: 0 0 auto;
-  }
+  overflow: hidden;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+  padding: -1em;
+  width: 23em;
+  flex: 0 0 auto;
+}
 
 .product-card img {
   width: 100%;
@@ -417,10 +674,10 @@ span {
 }
 
 .product-card-dn img {
-	width: 100%;
-	height: auto;
-	object-fit: contain;
-  }
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
 
 .product-price {
   color: #111;
@@ -430,17 +687,32 @@ span {
 }
 
 .prijs {
-	color: #111;
-	font-size: 1em;
-	font-weight: 500;
-  }
+  color: #111;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.nike-membership-1 {
+  margin-top: -10em;
+  margin-bottom: 1em;
+  padding: 1em;
+  color: white;
+  font-size: 1em;
+}
+
+.nike-membership {
+  margin-top: -1.9em;
+  margin-bottom: 1.9em;
+  padding: 1em;
+  color: white;
+}
 
 .footer-menu {
   text-decoration: none;
   display: block;
   padding: 0.5em;
   font-size: 1.4em;
-  color: black;
+  color: var(--text);
 }
 
 .footer-menu-collaps {
@@ -452,6 +724,18 @@ span {
   font-weight: 400;
 }
 
+.copy {
+  color: var(--text);
+  display: block;
+}
+
+#dark {
+  padding: 1em;
+  color: white;
+  background-color: black;
+  border-radius: 1em;
+}
+
 .footer-list {
   text-decoration: none;
   display: block;
@@ -461,7 +745,7 @@ span {
   font-weight: 400;
   margin-left: 0.8em;
   line-height: 0.5;
-  padding-block-end: 1em;  
+  padding-block-end: 1em;
 }
 
 hr {
@@ -504,16 +788,15 @@ hr {
   background-color: #ffffff;
 }
 
-.button-footer{
-	position: fixed;
-	background-color: black;
+.button-footer {
+  position: fixed;
+  background-color: black;
   color: white;
   height: 3em;
   font-size: 16px;
-	width: 100%;
-	bottom: 0;
-	left: 0;
-
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 
 footer {
@@ -525,8 +808,4 @@ footer {
   align-items: center;
   box-sizing: border-box;
   position: relative;
-
 }
-
-
-
