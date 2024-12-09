@@ -299,7 +299,8 @@ Ook is het gelukt om de teksten en buttons te krijgen in de cards van de members
 
 Niet gelukt:
 
-  <br> De pijltjes zijn nog steeds niet gelukt om toe te voegen.
+De pijltjes zijn nog steeds niet gelukt om toe te voegen.
+<br>
   <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
   
   Het is ook niet gelukt om alles in volledige dark mode over te zetten. Denk aan de nav en de collapsible.
