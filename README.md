@@ -186,15 +186,12 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
 
  Verder kan ik er niet heel veel over zeggen, enkel dat ik van mening ben dat mijn website beter functioneerd dan Nike zelf.
 
- Hieronder zal ik beide toegangkelijkheids testen als foto's inladen:
-
- 
-
- 
- 
- 
- 
-
+ Hieronder zal ik beide toegangkelijkheids testen als foto's inladen: <br>
+<img src="readme-images/test1.png" width="375px" alt="test 1"><br>
+<img src="readme-images/test2.png" width="375px" alt="test 2"><br>
+<img src="readme-images/test3.png" width="375px" alt="test 3"><br>
+<img src="readme-images/test4.png" width="375px" alt="test 4"><br>
+<img src="readme-images/test5.png" width="375px" alt="test 5"><br>
 </details>
 
 
@@ -250,6 +247,80 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
    
   
 
+
+  ### Dit ging goed/Heb ik geleerd: 
+  Korte omschrijving met plaatjes
+
+  Met het overal plaatje ben ik zeer tevreden over hoe alles eruit is komen te zien.
+
+  <img src="readme-images/detail-page.png" width="375px" alt="top">
+   <img src="readme-images/side-menu.png" width="375px" alt="top">
+
+
+  ### Dit was lastig/Is niet gelukt:
+  Korte omschrijving met plaatjes
+
+  <img src="readme-images/pijl menu.png" width="375px" alt="bummer">
+   <img src="readme-images/pijl path.png" width="375px" alt="bummer">
+    <img src="readme-images/pijl.png" width="375px" alt="bummer">
+  <img src="readme-images/fontface.png" width="375px" alt="bummer">
+  <img src="readme-images/menu knoppen.png" width="375px" alt="bummer">
+  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+  <img src="readme-images/niet-goed-tekst.png" width="375px" alt="bummer">
+</details>
+
+## Eindgesprek (3e Herkansing)
+  <summary>uitwerken voor eindgesprek</summary>
+
+  ### Je uitkomst - karakteristiek screenshots:
+  
+   Voor de 3e herkansing:
+ <i> voor de detail pagina zijn er veel dingen gelukt maar ook een aantal dingen niet. Zo heb ik bijvoorbeeld niet de pijltjes die nike heeft niet kunnen implementeren en is het toevoegen van de pijltjes onderaan de collapsible niet gelukt. Ook is het niet gelukt om de tekst in de cards onderaan de index te krijgen voor de memberships.<i>
+   <img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+ 
+  Nieuwe dingen dat ik heb gedaan voor de herkansing:
+
+  Gelukt:
+  
+  5 surface plane dingen toevoegen;
+  
+  - Light/Dark mode
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+  - Text increase
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+  - audio feedback
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+  - add to cart
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+  - back to top button
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
+<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+
+Niet gelukt:
+
+  De pijltjes zijn nog steeds niet gelukt om toe te voegen.
+  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer"><br>
+  
+  Het is ook niet gelukt om alles in volledige dark mode over te zetten. Denk aan de nav en de collapsible.
+  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+
+  Ook is het niet gelukt om mijn aside menu scrollbaar te maken omdat het een fixed position moet hebben. Anders gaat de layout helemaal warrig. Ik heb meerdere dingen geprobeerd zoals de position op absolute te zetten en een section om de inhoud van de menu heen te doen maar dat deed niks. Het moest helaas zo blijven staan. Wat wel is gelukt is om de inhoud van de menu zelf nog verder aan te vullen.
+<img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+
+  
+ 
+
+
+   <img src="readme-images/home-page.png" width="375px" alt="uitomst opdracht 1"><br>
+    <img src="readme-images/detail-page.png" width="375px" alt="top"><br>
+   <img src="readme-images/side-menu.png" width="375px" alt="top"><br>
+   
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
