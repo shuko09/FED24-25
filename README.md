@@ -277,7 +277,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   
   5 surface plane dingen toevoegen;
   
-  - Light/Dark mode
+  - Light/Dark mode<br>
 <img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> 
 <img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> 
 
@@ -285,7 +285,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
 <img src="readme-images/text-increase.png" width="375px" alt="text-increase">
 
   - audio feedback (deel van de back to top button, wordt gebruikt als audio feedback)
-<img src="readme-images/back-to-top" width="375px" alt="uitomst opdracht 1"> 
+<img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1"> 
 
   - add to cart
 <img src="readme-images/winkelmand.png" width="375px" alt="uitomst opdracht 1"> 
