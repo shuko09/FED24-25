@@ -285,22 +285,23 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   5 surface plane dingen toevoegen;
   
   - Light/Dark mode
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> <br>
+<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> <br>
 
   - Text increase
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/text-increase.png" width="375px" alt="text-increase"> <br>
 
-  - audio feedback
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+  - audio feedback (deel van de back to top button, wordt gebruikt als audio feedback)
+<img src="readme-images/back-to-top" width="375px" alt="uitomst opdracht 1"> <br>
 
   - add to cart
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/winkelmand.png" width="375px" alt="uitomst opdracht 1"> <br>
 
   - back to top button
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/back-to-top.png" width="375px" alt="uitomst opdracht 1"> <br>
 
 Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
-<img src="readme-images/detail-page.png" width="375px" alt="uitomst opdracht 1"> <br>
+<img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1"> <br>
 
 Niet gelukt:
 
@@ -308,19 +309,13 @@ Niet gelukt:
   <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer"><br>
   
   Het is ook niet gelukt om alles in volledige dark mode over te zetten. Denk aan de nav en de collapsible.
-  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+<img src="readme-images/darkmode-1.png" width="375px" alt="darkmode-1"> <br>
+<img src="readme-images/darkmode-2.png" width="375px" alt="darkmode-1"> <br>
 
   Ook is het niet gelukt om mijn aside menu scrollbaar te maken omdat het een fixed position moet hebben. Anders gaat de layout helemaal warrig. Ik heb meerdere dingen geprobeerd zoals de position op absolute te zetten en een section om de inhoud van de menu heen te doen maar dat deed niks. Het moest helaas zo blijven staan. Wat wel is gelukt is om de inhoud van de menu zelf nog verder aan te vullen.
-<img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
+<img src="readme-images/menu.png" width="375px" alt="bummer">
 
-  
- 
-
-
-   <img src="readme-images/home-page.png" width="375px" alt="uitomst opdracht 1"><br>
-    <img src="readme-images/detail-page.png" width="375px" alt="top"><br>
-   <img src="readme-images/side-menu.png" width="375px" alt="top"><br>
-   
+     
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
@@ -329,23 +324,6 @@ Niet gelukt:
 
   <img src="readme-images/detail-page.png" width="375px" alt="top">
    <img src="readme-images/side-menu.png" width="375px" alt="top">
-
-
-  ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/pijl menu.png" width="375px" alt="bummer">
-   <img src="readme-images/pijl path.png" width="375px" alt="bummer">
-    <img src="readme-images/pijl.png" width="375px" alt="bummer">
-  <img src="readme-images/fontface.png" width="375px" alt="bummer">
-  <img src="readme-images/menu knoppen.png" width="375px" alt="bummer">
-  <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
-  <img src="readme-images/niet-goed-tekst.png" width="375px" alt="bummer">
-</details>
-
-
-
-
 
 ## Bronnenlijst
 
@@ -358,7 +336,10 @@ Niet gelukt:
   4. nike (Netherlands) | afbeeldingen. (z.d.). Nike.com. https://www.nike.com/nl/
   5.  W3Schools online HTML editor. (z.d.). Geraadpleegd op 23 september 2024, van https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol
   6.  <a> https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
-  7. ChatGPT - Back to Top Button. (z.d.). ChatGPT. https://chatgpt.com/share/675729c4-72c8-800e-877c-ffe02f689cca (AANGEPASTE CODE!)
+  7. ChatGPT - Back to Top Button + AUDIO FEEDBACK. (z.d.). ChatGPT. https://chatgpt.com/share/675729c4-72c8-800e-877c-ffe02f689cca (AANGEPASTE CODE!)
+  9. ChatGPT - Light Dark Mode Toggle. (z.d.). ChatGPT. https://chatgpt.com/share/675773b6-4890-800e-82ad-423b189a48c6 (AANGEPASTE CODE!)
+  10. ChatGPT - Increase text size button. (z.d.). ChatGPT. https://chatgpt.com/share/67577428-ecac-800e-a465-f033f602a433 (AANGEPASTE CODE!)
+  11. ChatGPT - Knop toevoegen winkelmandje. (z.d.). ChatGPT. https://chatgpt.com/share/675775d7-c1c8-800e-a8f4-ec59df061a17 (HULP OP BESTAANDE CODE!)
      
 
 
