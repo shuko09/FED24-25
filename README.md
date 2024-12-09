@@ -180,11 +180,15 @@ Voor nu is het denk ik belangrijk dat ik verder ga met de layout zodat ik later 
 
  Ik ervaar dat ik de website beter kan navigeren met de voice over functie dan op de officiele nike website.
  Het is overzichtelijker en makkelijker te volgen, vooral als een persoon die dit helemaal niekt nodig heeft. <br>
- <img src="readme-images/toegankelijkheids-test-2" width="375px" alt="test 2"> <br>
+ <img src="readme-images/toegankelijkheids-test-2.png" width="375px" alt="test 2"> <br>
 
  Ook slaat de voiceover functie op mijn website niks over en dat is denk ik een grote verbetering.
 
  Verder kan ik er niet heel veel over zeggen, enkel dat ik van mening ben dat mijn website beter functioneerd dan Nike zelf.
+
+ Hieronder zal ik beide toegangkelijkheids testen als foto's inladen:
+
+ 
 
  
  
