@@ -283,6 +283,7 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
   4. nike (Netherlands) | afbeeldingen. (z.d.). Nike.com. https://www.nike.com/nl/
   5.  W3Schools online HTML editor. (z.d.). Geraadpleegd op 23 september 2024, van https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol
   6.  <a> https://silktide.com/blog/nike-faces-web-accessibility-lawsuit/"</a>
+  7. ChatGPT - Back to Top Button. (z.d.). ChatGPT. https://chatgpt.com/share/675729c4-72c8-800e-877c-ffe02f689cca (AANGEPASTE CODE!)
      
 
 
