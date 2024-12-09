@@ -297,10 +297,9 @@ zelf heb ik veel gedaan in deze week; Ik heb voor de home page nog wat extra din
 Ook is het gelukt om de teksten en buttons te krijgen in de cards van de memberships
 <img src="readme-images/membership-card-text.png" width="375px" alt="uitomst opdracht 1">
 
-<br>
 Niet gelukt:
 
-  De pijltjes zijn nog steeds niet gelukt om toe te voegen.
+  <br> De pijltjes zijn nog steeds niet gelukt om toe te voegen.
   <img src="readme-images/niet-goed-pijl.png" width="375px" alt="bummer">
   
   Het is ook niet gelukt om alles in volledige dark mode over te zetten. Denk aan de nav en de collapsible.
